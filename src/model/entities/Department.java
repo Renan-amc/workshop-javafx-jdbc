@@ -1,6 +1,5 @@
 package model.entities;
 
-import java.io.Serializable;
 import java.util.Objects;
 
 public class Department{
